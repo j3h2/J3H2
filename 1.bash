@@ -1,6 +1,6 @@
 
 for i in {1..10}; do
-    echo "Commit $i line" >> http://README.md
+    echo "Commit $i line" >> README.md
     git add -A
     # 生成随机时间（2025年6月内）
     day=$((10 + RANDOM % 10))
