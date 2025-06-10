@@ -11,4 +11,4 @@ for i in {1..10}; do
     export GIT_COMMITTER_DATE="$GIT_AUTHOR_DATE"
     git commit -m "commit $i"
     echo "提交 $i 时间: $GIT_AUTHOR_DATE"
-done
+done 
