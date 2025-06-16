@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 123Commit {1..10} line
 Commit {1..10} line
+Commit 1 line
